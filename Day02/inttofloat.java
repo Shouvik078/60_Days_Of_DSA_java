@@ -1,4 +1,4 @@
-package Day2;
+package Day02;
 
 public class inttofloat {
     public static void main(String[] args) {

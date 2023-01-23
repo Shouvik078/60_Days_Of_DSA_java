@@ -1,6 +1,6 @@
 // Integer to String
 
-package Day5;
+package Day05;
 
 public class IntegerToString {
     public static void main(String[] args) {
