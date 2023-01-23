@@ -9,3 +9,4 @@ public class StringtoInt {
         System.out.println(num);
     }
 }
+// good

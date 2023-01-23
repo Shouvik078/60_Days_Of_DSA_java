@@ -11,3 +11,5 @@ public class stringInput {
         sc.close();
     }
 }
+
+// taking string input
