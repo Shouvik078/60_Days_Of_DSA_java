@@ -1,3 +1,5 @@
+// checking next value present or not
+
 package Day01;
 
 import java.util.Scanner;
