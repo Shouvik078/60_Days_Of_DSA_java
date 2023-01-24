@@ -1,3 +1,8 @@
+// Insert the first character in the beginning of string,  
+// the second in the end,
+// the third in the beginning,
+//  fourth in the end, and so on.
+
 package Day15;
 
 import java.util.*;
