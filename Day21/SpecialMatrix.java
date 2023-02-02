@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 class Solution {
-    static boolean special(int matrix[][], int n) {
+    boolean special(int matrix[][], int n) {
         // Write code here
         boolean isMat = true;
         for (int i = 0; i < n; i++) {
@@ -34,6 +34,7 @@ public class SpecialMatrix {
             Solution ob = new Solution();
             boolean ans = ob.special(matrix, n);
             System.out.println(ans);
+            sc.close();
         }
     }
 }
