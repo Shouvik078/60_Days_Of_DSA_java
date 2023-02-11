@@ -1,0 +1,917 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SubsequenceEqualTarget",
+            "request": "launch",
+            "mainClass": "Day33.SubsequenceEqualTarget",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pyramid",
+            "request": "launch",
+            "mainClass": "Day01.Pyramid",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch hasNext",
+            "request": "launch",
+            "mainClass": "Day01.hasNext",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrome",
+            "request": "launch",
+            "mainClass": "Day01.palindrome",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeNumbersInGivenRange",
+            "request": "launch",
+            "mainClass": "Day01.primeNumbersInGivenRange",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumANDproduct",
+            "request": "launch",
+            "mainClass": "Day01.sumANDproduct",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch inttofloat",
+            "request": "launch",
+            "mainClass": "Day02.inttofloat",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch markstopercentage",
+            "request": "launch",
+            "mainClass": "Day02.markstopercentage",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringInput",
+            "request": "launch",
+            "mainClass": "Day02.stringInput",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch hellogoodday",
+            "request": "launch",
+            "mainClass": "Day03.hellogoodday",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch kmtomiles",
+            "request": "launch",
+            "mainClass": "Day03.kmtomiles",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch whichCase",
+            "request": "launch",
+            "mainClass": "Day03.whichCase",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayRotation",
+            "request": "launch",
+            "mainClass": "Day04.ArrayRotation",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "Day04.hello",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch printDigit",
+            "request": "launch",
+            "mainClass": "Day04.printDigit",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch IntegerToString",
+            "request": "launch",
+            "mainClass": "Day05.IntegerToString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringtoInt",
+            "request": "launch",
+            "mainClass": "Day05.StringtoInt",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayRotation(1)",
+            "request": "launch",
+            "mainClass": "Day06.ArrayRotation",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch print2Darray",
+            "request": "launch",
+            "mainClass": "Day07.print2Darray",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch pascalTriangle",
+            "request": "launch",
+            "mainClass": "Day08.pascalTriangle",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseStringWordWise",
+            "request": "launch",
+            "mainClass": "Day09.reverseStringWordWise",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch placeValueChecker",
+            "request": "launch",
+            "mainClass": "Day10.placeValueChecker",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubblesorDecending",
+            "request": "launch",
+            "mainClass": "Day11.bubblesorDecending",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubblesort",
+            "request": "launch",
+            "mainClass": "Day11.bubblesort",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch bubblesortusingFlag",
+            "request": "launch",
+            "mainClass": "Day11.bubblesortusingFlag",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch greatersmallestelement",
+            "request": "launch",
+            "mainClass": "Day11.greatersmallestelement",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch maxoccur",
+            "request": "launch",
+            "mainClass": "Day11.maxoccur",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch noofswapbubble",
+            "request": "launch",
+            "mainClass": "Day11.noofswapbubble",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch selectionsort1",
+            "request": "launch",
+            "mainClass": "Day11.selectionsort1",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayRotateOneTine",
+            "request": "launch",
+            "mainClass": "Day12.ArrayRotateOneTine",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayRotation(2)",
+            "request": "launch",
+            "mainClass": "Day12.ArrayRotation",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertionSort",
+            "request": "launch",
+            "mainClass": "Day12.insertionSort",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch sortMatrixColumnWise",
+            "request": "launch",
+            "mainClass": "Day12.sortMatrixColumnWise",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Greaterthenright",
+            "request": "launch",
+            "mainClass": "Day13.Greaterthenright",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch reverseString",
+            "request": "launch",
+            "mainClass": "Day13.reverseString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch CheckIfOneStringIsARotationOfAnotherString",
+            "request": "launch",
+            "mainClass": "Day14.CheckIfOneStringIsARotationOfAnotherString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hello",
+            "request": "launch",
+            "mainClass": "Day14.Hello",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringRotation",
+            "request": "launch",
+            "mainClass": "Day14.stringRotation",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringRotationLeft",
+            "request": "launch",
+            "mainClass": "Day14.stringRotationLeft",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeStringIndexWise",
+            "request": "launch",
+            "mainClass": "Day14_2.MergeStringIndexWise",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch printPrimeFromArrayList",
+            "request": "launch",
+            "mainClass": "Day14_2.printPrimeFromArrayList",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch toggleString",
+            "request": "launch",
+            "mainClass": "Day14_2.toggleString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ASCIIstring",
+            "request": "launch",
+            "mainClass": "Day15.ASCIIstring",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StrangeString",
+            "request": "launch",
+            "mainClass": "Day15.StrangeString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringBuilder1",
+            "request": "launch",
+            "mainClass": "Day15.StringBuilder1",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch XORinTwoString",
+            "request": "launch",
+            "mainClass": "Day15.XORinTwoString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch splitInCAPITAL",
+            "request": "launch",
+            "mainClass": "Day15.splitInCAPITAL",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch AJNumber",
+            "request": "launch",
+            "mainClass": "Day16.AJNumber",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicatesforArray",
+            "request": "launch",
+            "mainClass": "Day16.removeDuplicatesforArray",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayLQ",
+            "request": "launch",
+            "mainClass": "Day17.ArrayLQ",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiamondPattern",
+            "request": "launch",
+            "mainClass": "Day17.DiamondPattern",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch patternMan",
+            "request": "launch",
+            "mainClass": "Day17.patternMan",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayProblem6_2",
+            "request": "launch",
+            "mainClass": "Day18.ArrayProblem6_2",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DistinctPalindromicSubStrings",
+            "request": "launch",
+            "mainClass": "Day18.DistinctPalindromicSubStrings",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maxima_MinimaS1",
+            "request": "launch",
+            "mainClass": "Day18.Maxima_MinimaS1",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Maxima_MinimaS2",
+            "request": "launch",
+            "mainClass": "Day18.Maxima_MinimaS2",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch wordFromKeyboard",
+            "request": "launch",
+            "mainClass": "Day18.wordFromKeyboard",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivisibleSumPairs",
+            "request": "launch",
+            "mainClass": "Day19.DivisibleSumPairs",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HollowPyramid",
+            "request": "launch",
+            "mainClass": "Day19.HollowPyramid",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch addStringNumbers",
+            "request": "launch",
+            "mainClass": "Day19.addStringNumbers",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixPrint",
+            "request": "launch",
+            "mainClass": "Day20.MatrixPrint",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch chessSUM",
+            "request": "launch",
+            "mainClass": "Day20.chessSUM",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch maximumSUBarray",
+            "request": "launch",
+            "mainClass": "Day20.maximumSUBarray",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch minimaMaxima",
+            "request": "launch",
+            "mainClass": "Day20.minimaMaxima",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch sprialTraversingMatrix",
+            "request": "launch",
+            "mainClass": "Day20.sprialTraversingMatrix",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SpecialMatrix",
+            "request": "launch",
+            "mainClass": "Day21.SpecialMatrix",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DiamondAccio",
+            "request": "launch",
+            "mainClass": "Day22.DiamondAccio",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPatter16",
+            "request": "launch",
+            "mainClass": "Day22.StriverPatter16",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern10",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern10",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern11",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern11",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern12",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern12",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern13",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern13",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern14",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern14",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern15",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern15",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern17",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern17",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern18",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern18",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverPattern19",
+            "request": "launch",
+            "mainClass": "Day22.StriverPattern19",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListArray",
+            "request": "launch",
+            "mainClass": "Day23.ArrayListArray",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayListMerge",
+            "request": "launch",
+            "mainClass": "Day23.ArrayListMerge",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ButterFlyPattern",
+            "request": "launch",
+            "mainClass": "Day24.ButterFlyPattern",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch HollowRectangle",
+            "request": "launch",
+            "mainClass": "Day24.HollowRectangle",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PallindromPatterm",
+            "request": "launch",
+            "mainClass": "Day24.PallindromPatterm",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch solidRambous",
+            "request": "launch",
+            "mainClass": "Day24.solidRambous",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch square",
+            "request": "launch",
+            "mainClass": "Day24.square",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch stringCompare",
+            "request": "launch",
+            "mainClass": "Day25.stringCompare",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryLeftShift",
+            "request": "launch",
+            "mainClass": "Day26.BinaryLeftShift",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryOR",
+            "request": "launch",
+            "mainClass": "Day26.BinaryOR",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryOnesComplement",
+            "request": "launch",
+            "mainClass": "Day26.BinaryOnesComplement",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryRightShift",
+            "request": "launch",
+            "mainClass": "Day26.BinaryRightShift",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryXOR",
+            "request": "launch",
+            "mainClass": "Day26.BinaryXOR",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitMask",
+            "request": "launch",
+            "mainClass": "Day26.BitMask",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitSet",
+            "request": "launch",
+            "mainClass": "Day26.BitSet",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BitwiseAND",
+            "request": "launch",
+            "mainClass": "Day26.BitwiseAND",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch UpdateBit",
+            "request": "launch",
+            "mainClass": "Day26.UpdateBit",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch check",
+            "request": "launch",
+            "mainClass": "Day26.check",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch clearBit",
+            "request": "launch",
+            "mainClass": "Day26.clearBit",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Diamond",
+            "request": "launch",
+            "mainClass": "Day27.Diamond",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion1",
+            "request": "launch",
+            "mainClass": "Day27.Recursion1",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursion2",
+            "request": "launch",
+            "mainClass": "Day27.Recursion2",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch StriverFIBONACCI",
+            "request": "launch",
+            "mainClass": "Day27.StriverFIBONACCI",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorialRecursion",
+            "request": "launch",
+            "mainClass": "Day27.factorialRecursion",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch fibonnancciRECURSION",
+            "request": "launch",
+            "mainClass": "Day27.fibonnancciRECURSION",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch powerLogRec",
+            "request": "launch",
+            "mainClass": "Day27.powerLogRec",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch powerRecursion",
+            "request": "launch",
+            "mainClass": "Day27.powerRecursion",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofNatural",
+            "request": "launch",
+            "mainClass": "Day27.sumofNatural",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinearOpposite",
+            "request": "launch",
+            "mainClass": "Day28.LinearOpposite",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecursionName",
+            "request": "launch",
+            "mainClass": "Day28.RecursionName",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorialRecursion(1)",
+            "request": "launch",
+            "mainClass": "Day28.factorialRecursion",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch hasing",
+            "request": "launch",
+            "mainClass": "Day28.hasing",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch hasingString",
+            "request": "launch",
+            "mainClass": "Day28.hasingString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch kAnagrams",
+            "request": "launch",
+            "mainClass": "Day28.kAnagrams",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch linearPrinting",
+            "request": "launch",
+            "mainClass": "Day28.linearPrinting",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumofN",
+            "request": "launch",
+            "mainClass": "Day28.sumofN",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch DecreaseIncrease",
+            "request": "launch",
+            "mainClass": "Day29.DecreaseIncrease",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCD",
+            "request": "launch",
+            "mainClass": "Day29.GCD",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch NthEvenFibbonacciNumber",
+            "request": "launch",
+            "mainClass": "Day29.NthEvenFibbonacciNumber",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch RecersiveMultiplycation",
+            "request": "launch",
+            "mainClass": "Day29.RecersiveMultiplycation",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorialRecursivly",
+            "request": "launch",
+            "mainClass": "Day29.factorialRecursivly",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindromeStringREC",
+            "request": "launch",
+            "mainClass": "Day29.palindromeStringREC",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursivlyPrintReverse",
+            "request": "launch",
+            "mainClass": "Day29.recursivlyPrintReverse",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch sumtoNrecursivly",
+            "request": "launch",
+            "mainClass": "Day29.sumtoNrecursivly",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverArrAyRecursivly",
+            "request": "launch",
+            "mainClass": "Day30.ReverArrAyRecursivly",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch towerOfAnnoy",
+            "request": "launch",
+            "mainClass": "Day30.towerOfAnnoy",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfArrayElements",
+            "request": "launch",
+            "mainClass": "Day31.SumOfArrayElements",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch array11times",
+            "request": "launch",
+            "mainClass": "Day31.array11times",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch SubsequenceOfString",
+            "request": "launch",
+            "mainClass": "Day32.SubsequenceOfString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch countABC",
+            "request": "launch",
+            "mainClass": "Day32.countABC",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch keyPadCombination",
+            "request": "launch",
+            "mainClass": "Day32.keyPadCombination",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch pairstar",
+            "request": "launch",
+            "mainClass": "Day32.pairstar",
+            "projectName": "myJava_5b6f4fe5"
+        }
+    ]
+}
