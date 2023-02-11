@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch stringEncoding",
+            "request": "launch",
+            "mainClass": "Day33.stringEncoding",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutationPrinting",
+            "request": "launch",
+            "mainClass": "Day33.permutationPrinting",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch countSubSequences",
+            "request": "launch",
+            "mainClass": "Day33.countSubSequences",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch SubsequenceEqualTarget",
             "request": "launch",
             "mainClass": "Day33.SubsequenceEqualTarget",
