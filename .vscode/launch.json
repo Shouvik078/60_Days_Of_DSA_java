@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch removeVowels",
+            "request": "launch",
+            "mainClass": "Day35.removeVowels",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch allSubString",
+            "request": "launch",
+            "mainClass": "Day35.allSubString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Pangram",
+            "request": "launch",
+            "mainClass": "Day35.Pangram",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch convertPalindromeRemoving1",
             "request": "launch",
             "mainClass": "Day34.convertPalindromeRemoving1",
