@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch convertPalindromeRemoving1",
+            "request": "launch",
+            "mainClass": "Day34.convertPalindromeRemoving1",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch stringEncoding",
             "request": "launch",
             "mainClass": "Day33.stringEncoding",
