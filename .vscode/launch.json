@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch GetSubsequences",
+            "request": "launch",
+            "mainClass": "Day36.GetSubsequences",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch removeVowels",
             "request": "launch",
             "mainClass": "Day35.removeVowels",
