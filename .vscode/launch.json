@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch complexNumberADD",
+            "request": "launch",
+            "mainClass": "Day38.OOPs.complexNumberADD",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Day1",
+            "request": "launch",
+            "mainClass": "Day38.OOPs.Day1",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch patternRecursivly",
             "request": "launch",
             "mainClass": "Day38.patternRecursivly",
