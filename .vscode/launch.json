@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch patternRecursivly",
+            "request": "launch",
+            "mainClass": "Day38.patternRecursivly",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch chandan",
             "request": "launch",
             "mainClass": "Day37.chandan",

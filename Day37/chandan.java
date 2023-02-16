@@ -1,3 +1,4 @@
+// sort the array by absolute difference by 5
 package Day37;
 
 import java.util.*;
