@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch arrayOOP",
+            "request": "launch",
+            "mainClass": "Day39.arrayOOP",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch another",
             "request": "launch",
             "mainClass": "Day39.another",
