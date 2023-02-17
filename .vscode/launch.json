@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch another",
+            "request": "launch",
+            "mainClass": "Day39.another",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch childParent",
+            "request": "launch",
+            "mainClass": "Day39.childParent",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Generation",
+            "request": "launch",
+            "mainClass": "Day39.Generation",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch countOOP",
+            "request": "launch",
+            "mainClass": "Day39.countOOP",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch inheritanceOOP3",
+            "request": "launch",
+            "mainClass": "Day38.OOPs.inheritanceOOP3",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch complexNumberADD",
             "request": "launch",
             "mainClass": "Day38.OOPs.complexNumberADD",
