@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch PrivateAccessModifier",
+            "request": "launch",
+            "mainClass": "Day40.PrivateAccessModifier",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Day40.Main",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintAllSubsets",
+            "request": "launch",
+            "mainClass": "Day39.PrintAllSubsets",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch arrayOOP",
             "request": "launch",
             "mainClass": "Day39.arrayOOP",
