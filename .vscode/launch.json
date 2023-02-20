@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch instanceOf",
+            "request": "launch",
+            "mainClass": "Day41.instanceOf",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch TestBank",
             "request": "launch",
             "mainClass": "Day40.TestBank",

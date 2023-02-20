@@ -1,7 +1,7 @@
 package Day40;
 
-// import Day39.Teacher;      // importing Day39 Teacher package
-import Day39.*;
+import Day39.Teacher; // importing Day39 Teacher package
+//import Day39.*;
 
 public class Main {
     public static void main(String[] args) {
