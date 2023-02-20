@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Tesla",
+            "request": "launch",
+            "mainClass": "Day41.Tesla",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch instanceOf",
             "request": "launch",
             "mainClass": "Day41.instanceOf",
