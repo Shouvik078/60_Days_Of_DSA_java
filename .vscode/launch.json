@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch okay",
+            "request": "launch",
+            "mainClass": "Day42.okay",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "Day41.Day42.hello",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch helloj",
+            "request": "launch",
+            "mainClass": "Day42_2.helloj",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch insertNodeAtPosition",
+            "request": "launch",
+            "mainClass": "Day42.insertNodeAtPosition",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Delete_Node",
+            "request": "launch",
+            "mainClass": "Day42.Delete_Node",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Delete_node",
+            "request": "launch",
+            "mainClass": "Day42.Delete_node",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Runner",
+            "request": "launch",
+            "mainClass": "Day42.Runner",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch Tesla",
             "request": "launch",
             "mainClass": "Day41.Tesla",
