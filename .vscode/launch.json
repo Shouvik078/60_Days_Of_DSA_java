@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch QuickSort",
+            "request": "launch",
+            "mainClass": "Day44.QuickSort",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch mergerSort",
+            "request": "launch",
+            "mainClass": "Day44.mergerSort",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Launch primeinbetween",
+            "request": "launch",
+            "mainClass": "Day44.primeinbetween",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Launch okay",
             "request": "launch",
             "mainClass": "Day42.okay",
