@@ -45,7 +45,7 @@ class Solution {
         }
         Node mid = getMid(head);
         Node head2 = mid.next;
-        Node temp = head;
+        // Node temp = head;
         mid.next = null;
         Node hLeft = mergesort(head);
         Node hRight = mergesort(head2);
@@ -89,11 +89,12 @@ public class mergeSortInLinkedIn {
             a.add(input.nextInt());
         }
         Solution Obj = new Solution();
-        a.head = Obj.mergesort(a.head);
+        // a.head = Obj.mergesort(a.head);
         Node h = a.head;
         while (h != null) {
             System.out.print(h.data + " ");
             h = h.next;
         }
+        input.close();
     }
 }
