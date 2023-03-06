@@ -28,8 +28,7 @@ public class QuickSortInLinkedList {
             addToTheLast(new Node(a));
         }
 
-        Solution abc = new Solution();
-        Node node = abc.quickSort(head);
+        Node node = Solution.quickSort(head);
 
         printList(node);
         System.out.println();

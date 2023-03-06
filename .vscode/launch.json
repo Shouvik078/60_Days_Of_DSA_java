@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stack1",
+            "request": "launch",
+            "mainClass": "Day48.Stack1",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "LinkedList",
             "request": "launch",
             "mainClass": "Day47.LinkedList",

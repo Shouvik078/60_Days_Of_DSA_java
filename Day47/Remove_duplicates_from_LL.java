@@ -1,4 +1,4 @@
-// /*package Day47;
+// package Day47;
 
 // // Java program to remove duplicates from unsorted
 // // linked list

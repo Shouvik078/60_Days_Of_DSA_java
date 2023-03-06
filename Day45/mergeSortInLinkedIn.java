@@ -88,7 +88,6 @@ public class mergeSortInLinkedIn {
         for (int i = 0; i < n; i++) {
             a.add(input.nextInt());
         }
-        Solution Obj = new Solution();
         // a.head = Obj.mergesort(a.head);
         Node h = a.head;
         while (h != null) {
