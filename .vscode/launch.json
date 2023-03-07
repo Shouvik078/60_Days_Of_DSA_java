@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackCopyInfo",
+            "request": "launch",
+            "mainClass": "Day49.StackCopyInfo",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "StackFundamentals3",
+            "request": "launch",
+            "mainClass": "Day49.StackFundamentals3",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "StackFundamentals2",
+            "request": "launch",
+            "mainClass": "Day49.StackFundamentals2",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "StackFundamentals",
+            "request": "launch",
+            "mainClass": "Day49.StackFundamentals",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "StackCapacity",
+            "request": "launch",
+            "mainClass": "Day49.StackCapacity",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Stack1",
             "request": "launch",
             "mainClass": "Day48.Stack1",
