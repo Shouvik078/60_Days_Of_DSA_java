@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Diamonddd",
+            "request": "launch",
+            "mainClass": "Day50.Diamonddd",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "DiamondPrinting",
+            "request": "launch",
+            "mainClass": "Day50.DiamondPrinting",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "intName",
+            "request": "launch",
+            "mainClass": "Day50.intName",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "StackCopyInfo",
             "request": "launch",
             "mainClass": "Day49.StackCopyInfo",
