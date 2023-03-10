@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NextGreaterElement",
+            "request": "launch",
+            "mainClass": "Day51.NextGreaterElement",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "ExtraBrackets",
+            "request": "launch",
+            "mainClass": "Day51.ExtraBrackets",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "pairOOPStack",
             "request": "launch",
             "mainClass": "Day51.pairOOPStack",
