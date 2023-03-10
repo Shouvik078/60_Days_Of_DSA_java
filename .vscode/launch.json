@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pairOOPStack",
+            "request": "launch",
+            "mainClass": "Day51.pairOOPStack",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "M3Stack1",
+            "request": "launch",
+            "mainClass": "Day51.M3Stack1",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Diamonddd",
             "request": "launch",
             "mainClass": "Day50.Diamonddd",
