@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckingParenthesis",
+            "request": "launch",
+            "mainClass": "Day52.CheckingParenthesis",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "NumberGusseingGame",
             "request": "launch",
             "mainClass": "Day52.NumberGusseingGame",
