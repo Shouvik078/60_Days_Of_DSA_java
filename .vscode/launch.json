@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PreviousSmallerElement",
+            "request": "launch",
+            "mainClass": "Day53.PreviousSmallerElement",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "PreviousGreaterElement",
+            "request": "launch",
+            "mainClass": "Day53.PreviousGreaterElement",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "NextSmallerElementRight",
             "request": "launch",
             "mainClass": "Day53.NextSmallerElementRight",
