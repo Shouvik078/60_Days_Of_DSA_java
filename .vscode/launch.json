@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NextSmallerElementRight",
+            "request": "launch",
+            "mainClass": "Day53.NextSmallerElementRight",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "NextSmallerElementLeft",
+            "request": "launch",
+            "mainClass": "Day53.NextSmallerElementLeft",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "NextGreaterElementRight",
+            "request": "launch",
+            "mainClass": "Day53.NextGreaterElementRight",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "CheckingParenthesis",
             "request": "launch",
             "mainClass": "Day52.CheckingParenthesis",
