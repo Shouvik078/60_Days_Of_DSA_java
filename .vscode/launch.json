@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hashing",
+            "request": "launch",
+            "mainClass": "Day54.Hashing",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "PreviousSmallerElement",
             "request": "launch",
             "mainClass": "Day53.PreviousSmallerElement",
