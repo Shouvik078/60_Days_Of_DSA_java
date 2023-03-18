@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GivenDifferenceHashtable",
+            "request": "launch",
+            "mainClass": "Day55.GivenDifferenceHashtable",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Hashing",
             "request": "launch",
             "mainClass": "Day54.Hashing",
