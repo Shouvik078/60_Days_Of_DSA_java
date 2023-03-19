@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Day56.Main",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "LeadNumber",
+            "request": "launch",
+            "mainClass": "Day56.LeadNumber",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Day55.Main",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Array_Pairs_Divisible_By_K",
+            "request": "launch",
+            "mainClass": "Day55.Array_Pairs_Divisible_By_K",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "GivenDifferenceHashtable",
             "request": "launch",
             "mainClass": "Day55.GivenDifferenceHashtable",

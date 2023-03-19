@@ -37,5 +37,6 @@ public class GivenDifferenceHashtable {
         Solution Obj = new Solution();
         System.out.println(Obj.givenDifference(mat, n, B));
         System.out.println('\n');
+        sc.close();
     }
 }
