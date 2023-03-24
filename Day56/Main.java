@@ -71,7 +71,7 @@ public class Main {
             System.out.print("Employee whose phone number is " + numbercheck + ", is " + namesarr[flag]);
 
         }
-
+        s.close();
     }
 
 }

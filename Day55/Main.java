@@ -1,6 +1,5 @@
 package Day55;
 
-import java.io.*;
 import java.util.*;
 
 public class Main {
@@ -29,5 +28,6 @@ public class Main {
         int result = divisibleSumPairs(arr, n, k);
         System.out.print(result);
         System.out.println('\n');
+        sc.close();
     }
 }

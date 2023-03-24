@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pigLatinimp",
+            "request": "launch",
+            "mainClass": "pigLatinimp",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "pigLatin",
+            "request": "launch",
+            "mainClass": "Day57.pigLatin",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "reverseString",
+            "request": "launch",
+            "mainClass": "Day57.reverseString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "StringPalindrome",
+            "request": "launch",
+            "mainClass": "Day57.StringPalindrome",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "halfString",
+            "request": "launch",
+            "mainClass": "Day56.halfString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "ColindromeString",
+            "request": "launch",
+            "mainClass": "Day56.ColindromeString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "AnagramString",
+            "request": "launch",
+            "mainClass": "Day56.AnagramString",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "Day56.Main",
