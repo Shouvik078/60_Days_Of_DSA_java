@@ -21,7 +21,7 @@ public class UnionStringMap {
          * }
          */
         for (int k : table.keySet()) {
-            Object key;
+
             System.out.println(k + " " + table.get(k));
         }
     }

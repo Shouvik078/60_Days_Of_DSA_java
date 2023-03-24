@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "vowelcount",
+            "request": "launch",
+            "mainClass": "Day57.vowelcount",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "colindrome",
+            "request": "launch",
+            "mainClass": "Day57.colindrome",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "palindromestring",
+            "request": "launch",
+            "mainClass": "Day57.palindromestring",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "subsequence",
+            "request": "launch",
+            "mainClass": "Day57.subsequence",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "Stringmapping",
             "request": "launch",
             "mainClass": "Day57.Stringmapping",
