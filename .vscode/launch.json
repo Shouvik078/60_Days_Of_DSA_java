@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stringmapping",
+            "request": "launch",
+            "mainClass": "Day57.Stringmapping",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "UnionStringMap",
+            "request": "launch",
+            "mainClass": "Day57.UnionStringMap",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "unionArray",
+            "request": "launch",
+            "mainClass": "Day57.unionArray",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "pigLatinimp",
             "request": "launch",
             "mainClass": "pigLatinimp",

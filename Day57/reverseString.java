@@ -14,6 +14,6 @@ public class reverseString {
         Scanner sc = new Scanner(System.in);
         String s1 = sc.nextLine();
         reverse(s1);
-
+        sc.close();
     }
 }

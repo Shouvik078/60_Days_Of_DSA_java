@@ -20,5 +20,6 @@ public class StringPalindrome {
         Scanner sc = new Scanner(System.in);
         String s1 = sc.nextLine();
         System.out.println(isPalindrome(s1));
+        sc.close();
     }
 }
