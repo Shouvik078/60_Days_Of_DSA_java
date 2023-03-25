@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "maxChar",
+            "request": "launch",
+            "mainClass": "Day58.maxChar",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "countChar",
+            "request": "launch",
+            "mainClass": "Day58.countChar",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "Day58.Anagram",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "vowelcount",
             "request": "launch",
             "mainClass": "Day57.vowelcount",
