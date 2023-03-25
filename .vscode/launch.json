@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "maxMinStringChar",
+            "request": "launch",
+            "mainClass": "Day58.maxMinStringChar",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "checkCanPalindrome",
+            "request": "launch",
+            "mainClass": "Day58.checkCanPalindrome",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "maxChar",
             "request": "launch",
             "mainClass": "Day58.maxChar",
