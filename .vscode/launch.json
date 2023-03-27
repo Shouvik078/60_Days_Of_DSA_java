@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "firstRepeatchar",
+            "request": "launch",
+            "mainClass": "Day59.firstRepeatchar",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "adjacent",
+            "request": "launch",
+            "mainClass": "Day59.adjacent",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "maxMinStringChar",
             "request": "launch",
             "mainClass": "Day58.maxMinStringChar",
