@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "countIdentical",
+            "request": "launch",
+            "mainClass": "Day60.countIdentical",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "NonRepeat",
+            "request": "launch",
+            "mainClass": "Day60.NonRepeat",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "nonrepeat",
+            "request": "launch",
+            "mainClass": "Day60.nonrepeat",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
+            "name": "bubblesort",
+            "request": "launch",
+            "mainClass": "Day59.bubblesort",
+            "projectName": "myJava_5b6f4fe5"
+        },
+        {
+            "type": "java",
             "name": "firstRepeatchar",
             "request": "launch",
             "mainClass": "Day59.firstRepeatchar",

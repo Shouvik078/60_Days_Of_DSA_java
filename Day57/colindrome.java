@@ -28,6 +28,10 @@ public class colindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
-        System.out.println(checkColindrome(s));
+        if (checkColindrome(s)) {
+            System.out.println("Yes");
+        } else {
+            System.out.println("No");
+        }
     }
 }
